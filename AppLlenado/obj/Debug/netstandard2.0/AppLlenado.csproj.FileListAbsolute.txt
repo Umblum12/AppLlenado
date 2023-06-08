@@ -1,0 +1,17 @@
+C:\Users\Emcor Practicantes\source\repos\AppLlenado\AppLlenado\bin\Debug\netstandard2.0\AppLlenado.deps.json
+C:\Users\Emcor Practicantes\source\repos\AppLlenado\AppLlenado\bin\Debug\netstandard2.0\AppLlenado.dll
+C:\Users\Emcor Practicantes\source\repos\AppLlenado\AppLlenado\bin\Debug\netstandard2.0\ref\AppLlenado.dll
+C:\Users\Emcor Practicantes\source\repos\AppLlenado\AppLlenado\bin\Debug\netstandard2.0\AppLlenado.pdb
+C:\Users\Emcor Practicantes\source\repos\AppLlenado\AppLlenado\obj\Debug\netstandard2.0\AppLlenado.csproj.AssemblyReference.cache
+C:\Users\Emcor Practicantes\source\repos\AppLlenado\AppLlenado\obj\Debug\netstandard2.0\AppLlenado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emcor Practicantes\source\repos\AppLlenado\AppLlenado\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Emcor Practicantes\source\repos\AppLlenado\AppLlenado\obj\Debug\netstandard2.0\AppShell.xaml.g.cs
+C:\Users\Emcor Practicantes\source\repos\AppLlenado\AppLlenado\obj\Debug\netstandard2.0\AppLlenado.AssemblyInfoInputs.cache
+C:\Users\Emcor Practicantes\source\repos\AppLlenado\AppLlenado\obj\Debug\netstandard2.0\AppLlenado.AssemblyInfo.cs
+C:\Users\Emcor Practicantes\source\repos\AppLlenado\AppLlenado\obj\Debug\netstandard2.0\AppLlenado.csproj.CoreCompileInputs.cache
+C:\Users\Emcor Practicantes\source\repos\AppLlenado\AppLlenado\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Emcor Practicantes\source\repos\AppLlenado\AppLlenado\obj\Debug\netstandard2.0\AppLlenado.dll
+C:\Users\Emcor Practicantes\source\repos\AppLlenado\AppLlenado\obj\Debug\netstandard2.0\refint\AppLlenado.dll
+C:\Users\Emcor Practicantes\source\repos\AppLlenado\AppLlenado\obj\Debug\netstandard2.0\AppLlenado.pdb
+C:\Users\Emcor Practicantes\source\repos\AppLlenado\AppLlenado\obj\Debug\netstandard2.0\Views\Pagina_Acercade.xaml.g.cs
+C:\Users\Emcor Practicantes\source\repos\AppLlenado\AppLlenado\obj\Debug\netstandard2.0\Views\Pagina_Inicio.xaml.g.cs

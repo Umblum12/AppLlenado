@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Tq+3C3o25rqdE3Xw+/IBljXD9FJEw15+oXFs7zqcAW3rvfJprF3bO4mckVmvUNixsV1KxxZLrer1GEJeh79IPg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Emcor Practicantes\\source\\repos\\AppLlenado\\AppLlenado.iOS\\AppLlenado.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Emcor Practicantes\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\Emcor Practicantes\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\Emcor Practicantes\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}

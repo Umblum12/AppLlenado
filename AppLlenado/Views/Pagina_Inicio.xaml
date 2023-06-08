@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="AppLlenado.Views.Pagina_Inicio">
+    <ContentPage.Content>
+        <StackLayout >
+            <Grid >
+                <Frame Grid.Row="0" BackgroundColor="AliceBlue">
+                    <Label 
+                        Text="PomTe"
+                        TextColor="DarkBlue"
+                        FontSize="Large"
+                        VerticalOptions="CenterAndExpand" 
+                        HorizontalOptions="CenterAndExpand" />
+                </Frame>
+                <Frame 
+                    Grid.Row="1" 
+                    BackgroundColor="Aquamarine">
+                    <StackLayout>
+                        <Image></Image>
+                        <Label 
+                            Text="Sensor de flujo" />
+                        <Image></Image>
+                        <Image></Image>
+                        <Label
+                            Text="Valvula"
+                            />
+                    </StackLayout>
+                </Frame>
+                <Frame 
+                    Grid.Row="2" 
+                    BackgroundColor="DarkGray">
+                    <Button 
+                        Text="Llenar"
+                        TextColor="DarkBlue"
+                        BackgroundColor="Aquamarine" 
+                        CornerRadius="25"
+                        ></Button>
+                </Frame>
+            </Grid>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
